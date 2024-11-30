@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#101318</color>
+    <color name="cardbackground">#151821</color>
+    <color name="button">#3A4599</color>
+    <color name="textcolor">#000000</color>
+    <color name="secondtextcolor">#474B57</color>
+    <color name="amountcvcolor">#FFFFFFFF</color>
+    <color name="rv_item1_bg">#42333D</color>
+    <color name="rv_item2_bg">#7A7190</color>
+    <color name="rv_item3_bg">#576789</color>
+    <color name="green">#2F8133</color>
+</resources>
