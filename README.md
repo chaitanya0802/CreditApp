@@ -1,14 +1,5 @@
 <h1>CreditApp</h1>
-![Screenshot 2024-11-30 113303](https://github.com/user-attachments/assets/8dee1d2c-18bc-4057-84c2-82bc95843bed)
-![Screenshot 2024-11-30 113303](https://github.com/user-attachments/assets/b614d788-d1db-47c4-b3fd-bbaa39fe9122)
-![Screenshot 2024-11-30 113313](https://github.com/user-attachments/assets/0b49c253-fe48-4286-b505-6f38f7dc00bc)
-![Screenshot 2024-11-30 113330](https://github.com/user-attachments/assets/559dfc93-7e74-47fa-9a13-7259f4160b8e)
-![Screenshot 2024-11-30 113322](https://github.com/user-attachments/assets/afc42e38-5cbc-4e64-b1ef-0fa794e9a7c7)
-![Screenshot 2024-11-30 113330](https://github.com/user-attachments/assets/31175e8b-ae02-4af2-b247-610add8e64cb)
-![Screenshot 2024-11-30 113303](https://github.com/user-attachments/assets/91f144d5-f623-4312-a1b3-3656e0fb1120)
-![Screenshot 2024-11-30 113313](https://github.com/user-attachments/assets/da0c62a0-c886-4167-888d-edda969c0d49)
-![Screenshot 2024-11-30 113322](https://github.com/user-attachments/assets/401f1317-bd8a-4e33-a353-3141a3151df0)
-![Screenshot 2024-11-30 113303](https://github.com/user-attachments/assets/50a5d6bd-eca6-4934-80a2-1e1fdafe55f2)
-![Screenshot 2024-11-30 113313](https://github.com/user-attachments/assets/b2e7cc2a-97db-4830-a411-bf01a9efaa39)
-![Screenshot 2024-11-30 113322](https://github.com/user-attachments/assets/794c5633-d9e8-4c35-904c-21798172da68)
-![Screenshot 2024-11-30 113330](https://github.com/user-attachments/assets/f2eb44c1-ef24-49de-9323-eee6089ca546)
+<imgsrc="https://github.com/user-attachments/assets/29989ee3-c0d5-443f-96bf-3ec838eb9d8c">
+![Screenshot 2024-11-30 113322](https://github.com/user-attachments/assets/bebce6d6-f98d-4c5e-87e6-8ae36fc086ee)
+![Screenshot 2024-11-30 113330](https://github.com/user-attachments/assets/63481751-dd63-4673-8efe-469640cc8599)
+![Screenshot 2024-11-30 113303](https://github.com/user-attachments/assets/0b0ccc09-1028-4635-99f2-b81a569bd83d)
