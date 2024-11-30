@@ -1,4 +1,5 @@
 <h1>CreditApp</h1>
+<h3>CreditApp (AndroidApp Stack Framework for lending Money (EMI Plan))  </h3>
 <img src="https://github.com/user-attachments/assets/45dacbdd-f9ff-4b5b-a404-ca3a5a9bfad4">
 <img src="https://github.com/user-attachments/assets/fa6c0e53-a93d-4450-b3a6-b4d43fcdb4cb">
 <h4>.</h4>
